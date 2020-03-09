@@ -1,7 +1,3 @@
-CPP
-A Project for learning c++ concepts
+Riddles
 
-Pre-requisites
-Nothing, just a will to learn programming
-
-
+For Some Mind Exercise
